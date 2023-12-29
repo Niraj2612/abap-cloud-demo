@@ -2,13 +2,13 @@ general:
   cfApiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com/'
   cfOrg: '8d5dd292trial'
   cfSpace: 'dev'
-  cfCredentialsId: '59a95f7a-4eda-4917-90f3-eb228ea13fde'
+  cfCredentialsId: 'c81e69d9-9052-4907-83b9-7c4fb7274117'
   cfServiceInstance: 'abapEnvironmentPipeline'
 stages:
   Prepare System:
     cfService: 'abap'
     cfServicePlan: 'standard'
-    abapSystemAdminEmail: 'user@example.com'
+    abapSystemAdminEmail: 'stukkat01@gmail.com'
     abapSystemDescription: 'ABAP Environment Q System'
     abapSystemIsDevelopmentAllowed: false
     abapSystemID: 'H02'
