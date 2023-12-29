@@ -6,7 +6,6 @@ general:
   cfServiceInstance: 'abapEnvironmentPipeline'
 stages:
   Prepare System:
-    cfService: 'abap'
     cfServicePlan: 'standard'
     abapSystemAdminEmail: 'stukkat01@gmail.com'
     abapSystemDescription: 'ABAP Environment Q System'
