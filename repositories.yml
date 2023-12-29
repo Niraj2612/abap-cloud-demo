@@ -1,0 +1,5 @@
+repositories:
+- name: '.'
+  branch: 'master'
+- name: '.'
+  branch: 'master'
