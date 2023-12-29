@@ -2,7 +2,7 @@ general:
   cfApiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com/'
   cfOrg: '8d5dd292trial'
   cfSpace: 'dev'
-  cfCredentialsId: 'stukkat01@gmail.com'
+  cfCredentialsId: '59a95f7a-4eda-4917-90f3-eb228ea13fde'
   cfServiceInstance: 'abapEnvironmentPipeline'
 stages:
   Prepare System:
